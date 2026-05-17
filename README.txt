@@ -28,7 +28,7 @@ Week 5: BETA RELEASE WEEK 6/1 - 6/7 QA and bug fixes, Apply textures to material
 
 Week 6: 1.0 RELEASE WEEK 6/8 - 6/14 Complete and outstanding tasks, Bug fixes.
 
-Communication Method: Meetings on Sunday to discuss work for the upcoming week. As well as discord messages throughout the week.
+Communication Method: Meetings on Sunday to discuss work for the upcoming week. As well as discord messages throughout the week. Utilize Trello to collaborate and track progress.
 
 Communication Frequency: Weekly meeting and at least 1 mid week check in on progress.
 
