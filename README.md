@@ -3,7 +3,7 @@
 
 ## Chosen Scenario
 * **Base Scenario:** Unannounced First-Person Simulation (Miniaturized inside the body)
-* **Four Additional Elements:** [Insert Element 1], [Insert Element 2], [Insert Element 3], [Insert Element 4]
+* **Four Additional Elements:** [Insert Element 1], MIchael Walker: Teleporter, [Insert Element 3] [Insert Element 4]
 
 ## Brainstorming & Content Design
 We are building a fast-paced, "Doom-like Boomer Shooter" adapted to the human body environment. 
