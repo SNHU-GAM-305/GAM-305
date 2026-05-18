@@ -3,7 +3,7 @@
 
 ## Chosen Scenario
 * **Base Scenario:** Unannounced First-Person Simulation (Miniaturized inside the body)
-* **Four Additional Elements:** Jared White Pick-Ups, MIchael Walker: Teleporter, Alex Hartschenko: Virus-tracking capability, Noah Ketzenberger: Capillary Traversal System
+* **Four Additional Elements:** Jared White: Pick-Ups, Michael Walker: Teleporter, Alex Hartschenko: Virus-tracking capability, Noah Ketzenberger: Capillary Traversal System
 
 ## Brainstorming & Content Design
 We are building a fast-paced, "Doom-like Boomer Shooter" adapted to the human body environment. 
