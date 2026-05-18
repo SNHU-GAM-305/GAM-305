@@ -3,7 +3,7 @@
 
 ## Chosen Scenario
 * **Base Scenario:** Unannounced First-Person Simulation (Miniaturized inside the body)
-* **Four Additional Elements:** Jared White Pick-Ups, MIchael Walker: Teleporter, [Insert Element 3] [Insert Element 4]
+* **Four Additional Elements:** Jared White Pick-Ups, MIchael Walker: Teleporter, Alex Hartschenko: Virus-tracking capability [Insert Element 4]
 
 ## Brainstorming & Content Design
 We are building a fast-paced, "Doom-like Boomer Shooter" adapted to the human body environment. 
@@ -15,7 +15,7 @@ We are building a fast-paced, "Doom-like Boomer Shooter" adapted to the human bo
 ## Schedule & Timeline
 * **Week 3 (5/18 - 5/24):** Player Setup, Enemy Parent Class/Placeholder Enemy, Projectile Parent Class, Health System with placeholder UI, Initial Level Layout. 
 * **Week 4 - ALPHA RELEASE (5/25 - 5/31):** Kill Tracker with placeholder UI, Pickup Parent Class, Game End State (Game over/Level complete), Enemy Sprites complete, Gun Sprite complete, Playtest and QA.
-* **Week 5 - BETA RELEASE (6/1 - 6/7):** QA and bug fixes, Apply textures to material, Enemy Animations, Gun Animations, Add Sound Effects.
+* **Week 5 - BETA RELEASE (6/1 - 6/7):** QA and bug fixes, Apply textures to material, Enemy Animations, Gun Animations.
 * **Week 6 - 1.0 RELEASE (6/8 - 6/14):** Complete outstanding tasks, Final Bug fixes.
 
 ## Communication Plan
