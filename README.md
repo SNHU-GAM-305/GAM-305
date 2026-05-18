@@ -10,7 +10,6 @@ We are building a fast-paced, "Doom-like Boomer Shooter" adapted to the human bo
 * **Theme:** Miniaturized inside the human body.
 * **Level Design:** 5 rooms of varying sizes representing different organs/systems.
 * **Enemies:** 3 distinct virus types with varied AI and movement patterns (Total 20 kills required).
-* **Mechanics:** [Briefly mention how your 4 chosen elements fit in, e.g., using Capillaries as crawl spaces between the 5 rooms].
 
 ## Schedule & Timeline
 * **Week 3 (5/18 - 5/24):** Player Setup, Enemy Parent Class/Placeholder Enemy, Projectile Parent Class, Health System with placeholder UI, Initial Level Layout. 
@@ -31,7 +30,4 @@ We are building a fast-paced, "Doom-like Boomer Shooter" adapted to the human bo
   * Lead Programmer / Sound Design: Michael W.
   * Lead Sound Design / Programmer: Noah Ketzenberger
 
-## Document Contributions
-* Scenario & Brainstorming: [Names]
-* Schedule & Specs: [Names]
-* Communication & Reporting: [Names]
+
