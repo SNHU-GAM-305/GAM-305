@@ -26,8 +26,8 @@ We are building a fast-paced, "Doom-like Boomer Shooter" adapted to the human bo
 * **Roles:** 
   * Team Lead: Jared White
   * UI/UX Designer: Alex H.
-  * Environmental Design / Programmer: Blaise Pascal
-  * Lead Programmer / Sound Design: Michael W.
-  * Lead Sound Design / Programmer: Noah Ketzenberger
+  * Environmental Artist: Blaise Pascal
+  * Lead Programmer: Michael W.
+  * Level Designer / Programmer: Noah Ketzenberger
 
 
