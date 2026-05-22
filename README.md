@@ -49,6 +49,7 @@ UI
 * Ammo: we will deplete the weapons ammo and pickup more ammo while firirng to make sure ammo count is properly displayed.
 
 **Week 5 - Demo**
+
 This week is heavily based around getting all assets in the game. Therefore testing will revolve more around general game feel and any animation bugs.
 
 Animation
@@ -59,6 +60,7 @@ Environment
 * We wll check for any texture issues in on objects like floors, walls, ceilings, and teleporters
 
 **Week 6 - Code Release**
+
 This week is all about testing so we will be rerunnig every test from week 4 to make sure nothing has changed in the final build.
 
 
