@@ -21,10 +21,13 @@ We are building a fast-paced, "Doom-like Boomer Shooter" adapted to the human bo
 * **Method:** Weekly voice meetings and continuous text collaboration via a dedicated Discord server.
 * **Frequency:** Primary team meeting on Sundays to review the upcoming sprint, plus at least one mid-week check-in to assess progress.
 
-## Testing Plan
+# Module Three Project Log - Team Development: QA and Testing Plan.
 
 **Method:** All tests will be done on a pass/fail system and will be reported within the bugs channel of the group discord with the corresponding role tagged in the bug report so they can investigate.
 When the bug has been resolved they will respond to the initial bug report with confirmation of completion. All branches for bug fixes will be headed with BUGFIX/system/bugtype to make it clear in the commit tree what has been fixed.
+
+*   **Test Plan Updates:** If we change any game mechanics or update the design document, the team will meet on Discord to update this test plan right away so we don’t waste time testing old features. 
+*   **Long-Term Bug Tracking:** To keep track of bugs over time and make sure nothing gets forgotten, we will log every bug from Discord into a shared Google Sheet that shows the bug's status (Open, In Progress, or Fixed), who is working on it, and when it was resolved.
 
 **Week 4 - Play Test**
 
