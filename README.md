@@ -29,6 +29,13 @@ When the bug has been resolved they will respond to the initial bug report with 
 *   **Test Plan Updates:** If we change any game mechanics or update the design document, the team will meet on Discord to update this test plan right away so we don’t waste time testing old features. 
 *   **Long-Term Bug Tracking:** To keep track of bugs over time and make sure nothing gets forgotten, we will log every bug from Discord into a shared Google Sheet that shows the bug's status (Open, In Progress, or Fixed), who is working on it, and when it was resolved.
 
+**Bug Severity Levels:**
+
+- **Critical:** Game crashes or major systems fail.
+- **Major:** Gameplay systems function incorrectly but the game still runs.
+- **Minor:** Small gameplay issues that do not hravily affect gameplay.
+- **Cosmetic:** Visual or audio issues that do not affect gameplay.
+
 **Week 4 - Play Test**
 
 Environment
