@@ -96,6 +96,7 @@ This week is all about testing so we will be rerunnig every test from week 4 to 
 
 * In terms of the QA and testing process, what would you do differently to improve the process?
   * Utilize discord channels to report more bugs as they are found.
+  * Make sure pull requests are completed in timely fashion to avoid merge conflicts in local branches.
 
 
 * What tools (chosen in Module Two) did you find successful in the development of your Alpha project? Why?
