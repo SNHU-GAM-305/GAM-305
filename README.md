@@ -84,3 +84,27 @@ This week is all about testing so we will be rerunnig every test from week 4 to 
   * Level Designer / Programmer: Noah Ketzenberger
 
 
+## Module 4 Project Log - Team Reflection
+
+* What parts of the testing process did the team perceive to go well?
+  * Initial systems testing has made it very easy to integrate each system with minimal issues.
+  * Utilizing Print strings to debug during development led to more complete systems.
+* How were bugs identified and corrected?
+   * Bugs were tracked using a discord channel and updated as fixed. 
+   * As bugs were identified they were reported and resolved using proper feature branching.
+
+
+* In terms of the QA and testing process, what would you do differently to improve the process?
+  * Utilize discord channels to report more bugs as they are found.
+
+
+* What tools (chosen in Module Two) did you find successful in the development of your Alpha project? Why?
+  * Using Discord and Trello to track progress has made it easier to develop a functioning alpha build within 2 weeks
+  * Having clearly laid out tasks with checklists allowed for better task management throughout the process.
+* Were there any tools or techniques that you did not find helpful in the success of your project development? Why?
+  * All tools currently being used have been useful to completing the tasks assigned.
+
+
+* How did the team approach to the initial analysis of the game design document contribute to the decision to use these tools and techniques?
+  * Having a set theme made it much easier to break down tasks early on into small pieces with less decision paralysis. 
+  * Because the task breakdown was so easy, translating it to a checklist made it very clear and concise what needed to be done
