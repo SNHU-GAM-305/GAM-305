@@ -109,3 +109,26 @@ This week is all about testing so we will be rerunnig every test from week 4 to 
 * How did the team approach to the initial analysis of the game design document contribute to the decision to use these tools and techniques?
   * Having a set theme made it much easier to break down tasks early on into small pieces with less decision paralysis. 
   * Because the task breakdown was so easy, translating it to a checklist made it very clear and concise what needed to be done
+
+## Module 5 Project Log - Team Reflection
+
+* What parts of the plan did the team perceive to go well in relation to the last stage evaluation?
+  * We coordinated our pushs more effectively to avoid merge conflicts.
+  * Better overall communication.
+
+  
+* What parts of the plan did the team perceive to go wrong in relation to the last stage evaluation?
+  * We could have recongized a bit earlier the need for uniform environmental pieces to make texture mapping easier.
+
+* How were the previous evaluations integrated into this latest stage?
+  * We intergrated discord more effectively into our workflow.
+  * Our pushes have been more streamlined with less merge conflicts.
+
+* What would you do differently to improve the collaboration or development process?
+  * Clearer communication on who was assigned to do pull requests.
+  * On trello identify what files each person will be working to better plan pushs and reduce redundant work.
+  * Daily tasks to complete to better communicate the progress on project.
+
+* Were there any tools or techniques that you did not find helpful in the success of your project development? Why?
+  * We under utilized the Discord channel and should have used it more for communication early on but all tools and techniques used served a purpose.
+
