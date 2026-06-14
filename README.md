@@ -137,9 +137,10 @@ This week is all about testing so we will be rerunnig every test from week 4 to 
 * What parts of the plan did the team perceive to go well in relation to the last stage evaluation?
   * Communication went well and we planned out the week's tasks in a great way to mitigate conflicts when we scheduled adding the environment art material update to after the modular map update.
 * What parts of the plan did the team perceive to go wrong in relation to the last stage evaluation?
-  * 
+  * (placeholder)
 * How were the previous evaluations integrated into this latest stage?
   * We focused on our strengths of communication and continued this week strong.
 * What would you do differently to improve the collaboration or development process?
-  * 
+  * (placeholder)
 * Were there any tools or techniques that you did not find helpful in the success of your project development? Why?
+  * (placeholder) 
