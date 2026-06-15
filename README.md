@@ -140,6 +140,7 @@ This week is all about testing so we will be rerunnig every test from week 4 to 
   * Some minor bugs were discovered during testing.
 * How were the previous evaluations integrated into this latest stage?
   * We focused on our strengths of communication and continued this week strong.
+  * We continued coordinating pull requests and major level updates to reduce merge conflicts.
 * What would you do differently to improve the collaboration or development process?
   * Assign dedicated review responsibilities for each system to ensure bugs and integration issues are caught earlier.
 * Were there any tools or techniques that you did not find helpful in the success of your project development? Why?
